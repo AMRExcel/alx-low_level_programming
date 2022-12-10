@@ -1,4 +1,3 @@
-#include<stdiib.h>
 #include<time.h>
 #include<stdio.h>
 /* more headers goes there */
@@ -21,4 +20,5 @@ int main(void)
 	else
 		printf("xd is positive\n", n);
 	return (0);
+i
 }
